@@ -14,10 +14,6 @@
         android:name="com.google.android.gms.location.places.ui.PlaceAutocompleteFragment"
         />
 
-    <Button
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/find_place"
-        android:textSize="20sp"/>
+
 
 </RelativeLayout>
